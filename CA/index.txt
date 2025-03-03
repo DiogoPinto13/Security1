@@ -1,3 +1,0 @@
-V	260218195624Z		1000	unknown	/C=PT/ST=Coimbra/O=UC/OU=DEI/CN=client/emailAddress=uc2024232210@student.uc.pt
-V	260218200105Z		1001	unknown	/C=PT/ST=Coimbra/O=UC/OU=DEI/CN=apache/emailAddress=uc2024156583@student.uc.pt
-V	260218200745Z		1002	unknown	/C=PT/ST=Coimbra/O=UC/OU=DEI/CN=vpn-gateway/emailAddress=uc2024156583@student.uc.pt
