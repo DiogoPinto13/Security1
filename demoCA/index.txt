@@ -3,3 +3,4 @@ V	260303204105Z		02	unknown	/C=PT/ST=Coimbra/O=UC/OU=DEI/CN=client_vpn/emailAddr
 V	260303205255Z		03	unknown	/C=PT/ST=Coimbra/O=UC/OU=DEI/CN=client_apache/emailAddress=uc2024156583@student.uc.pt
 V	260303205412Z		04	unknown	/C=PT/ST=Coimbra/O=UC/OU=DEI/CN=ocsp/emailAddress=uc2024156583@student.uc.pt
 V	260303205429Z		05	unknown	/C=PT/ST=Coimbra/O=UC/OU=DEI/CN=server_apache/emailAddress=uc2024156583@student.uc.pt
+V	260304215336Z		06	unknown	/C=PT/ST=Coimbra/O=UC/OU=DEI/CN=server_apache2/emailAddress=uc2024156583@student.uc.pt
