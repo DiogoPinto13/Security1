@@ -8,13 +8,13 @@ OCSP Request Data:
           Serial Number: 01
     Request Extensions:
         OCSP Nonce: 
-            04102595DD70A2EBC18E97C36408E28CA47E
+            0410CC73CC4C19504C1C7925D844E6E0B59A
 OCSP Response Data:
     OCSP Response Status: successful (0x0)
     Response Type: Basic OCSP Response
     Version: 1 (0x0)
     Responder Id: C = PT, ST = Coimbra, O = UC, OU = DEI, CN = ocsp, emailAddress = uc2024156583@student.uc.pt
-    Produced At: Mar  5 20:11:26 2025 GMT
+    Produced At: Mar  6 21:44:47 2025 GMT
     Responses:
     Certificate ID:
       Hash Algorithm: sha1
@@ -22,28 +22,28 @@ OCSP Response Data:
       Issuer Key Hash: 8D43375E13221BB7C70C8C29E7E4C4D05AD0DAFB
       Serial Number: 01
     Cert Status: good
-    This Update: Mar  5 20:11:26 2025 GMT
+    This Update: Mar  6 21:44:47 2025 GMT
 
     Response Extensions:
         OCSP Nonce: 
-            04102595DD70A2EBC18E97C36408E28CA47E
+            0410CC73CC4C19504C1C7925D844E6E0B59A
     Signature Algorithm: sha256WithRSAEncryption
     Signature Value:
-        a7:a6:14:b5:db:85:2c:ea:64:69:fe:8a:9b:67:bb:32:1e:6d:
-        fd:ac:1f:98:97:1c:2e:33:4b:13:f7:b0:51:10:5d:c7:00:ac:
-        ed:6b:bd:41:e2:eb:6a:16:4e:8b:51:55:a3:a6:5b:e1:ad:f2:
-        06:b2:56:2b:43:e8:ff:27:ac:10:70:29:13:95:b6:a9:9e:8a:
-        6c:cc:92:6e:79:1b:16:dd:2f:9f:3c:c0:da:89:1e:1b:78:b4:
-        29:e8:d0:d0:65:e3:a4:f6:62:fb:46:8b:1d:94:c6:82:8c:ac:
-        a2:0f:64:5c:be:fe:0e:f5:e1:36:50:f1:20:bb:2e:eb:03:f0:
-        97:44:0d:2d:6f:93:8e:fe:1b:78:ad:e0:d9:c1:70:88:0b:1e:
-        57:99:b4:02:f8:b5:67:c4:57:31:73:68:10:16:57:47:21:4b:
-        ec:71:82:68:9e:a0:8a:d9:e1:b3:25:74:a7:c7:c7:97:b4:65:
-        d0:6d:40:f1:db:c6:e4:22:e1:e9:18:28:6f:d6:1d:4d:60:9d:
-        7b:e7:0e:30:d8:36:8f:c9:9d:14:20:af:ec:9e:24:af:ee:00:
-        c2:82:bb:2f:07:db:f2:40:5c:bd:9e:2d:f3:56:f8:21:0f:dd:
-        ae:f9:69:bb:8d:f3:0c:f5:a5:11:91:75:64:cd:09:59:28:8e:
-        e9:8a:c4:25
+        23:09:d5:80:08:40:bc:6b:a6:a9:fa:ac:fd:ad:32:66:b5:38:
+        47:c2:9f:0a:2e:e8:9a:51:fe:8c:f2:ab:fe:e8:09:90:7e:1d:
+        24:2e:76:62:04:c6:dc:40:c8:09:37:6a:f3:d9:3f:93:69:1c:
+        fb:55:f0:12:da:6a:81:08:4b:a5:d8:dc:6e:a3:5a:94:ff:56:
+        fa:b7:86:cc:94:50:c4:68:db:d9:e5:7d:d1:b8:0b:86:f0:51:
+        23:19:57:55:96:12:dc:60:4b:da:44:35:ed:c1:53:59:11:00:
+        11:c1:4d:e0:b1:d3:2f:cc:bf:d1:7b:2c:c9:47:0f:ac:df:fe:
+        2a:b2:8a:69:be:1a:66:39:aa:ca:c5:5f:0e:98:de:df:a6:8d:
+        60:c0:d8:8a:f6:10:2a:fe:92:6e:ba:ab:d0:04:f2:39:b0:bc:
+        37:5f:34:90:a2:7d:ab:68:3d:25:ed:24:86:0b:93:f0:0d:17:
+        8b:50:ab:ad:45:e4:04:83:72:07:02:e7:8c:70:2b:ea:45:70:
+        e3:e4:28:47:24:39:8d:27:f0:07:82:58:d7:c2:2f:ed:08:21:
+        57:36:80:b2:ca:7d:ad:4f:16:e8:8a:19:fd:d2:db:58:0c:c9:
+        b1:55:3a:c6:9d:d2:06:af:dd:08:01:65:03:09:99:db:67:c7:
+        d0:48:7c:8d
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -134,13 +134,13 @@ OCSP Request Data:
           Serial Number: 00
     Request Extensions:
         OCSP Nonce: 
-            0410E27887A5A5A7367209D4B16337FC752E
+            0410B853BD9275B79E4F6C7DBD626134ADA2
 OCSP Response Data:
     OCSP Response Status: successful (0x0)
     Response Type: Basic OCSP Response
     Version: 1 (0x0)
     Responder Id: C = PT, ST = Coimbra, O = UC, OU = DEI, CN = ocsp, emailAddress = uc2024156583@student.uc.pt
-    Produced At: Mar  5 20:11:26 2025 GMT
+    Produced At: Mar  6 21:44:47 2025 GMT
     Responses:
     Certificate ID:
       Hash Algorithm: sha1
@@ -148,28 +148,28 @@ OCSP Response Data:
       Issuer Key Hash: 8D43375E13221BB7C70C8C29E7E4C4D05AD0DAFB
       Serial Number: 00
     Cert Status: unknown
-    This Update: Mar  5 20:11:26 2025 GMT
+    This Update: Mar  6 21:44:47 2025 GMT
 
     Response Extensions:
         OCSP Nonce: 
-            0410E27887A5A5A7367209D4B16337FC752E
+            0410B853BD9275B79E4F6C7DBD626134ADA2
     Signature Algorithm: sha256WithRSAEncryption
     Signature Value:
-        90:0f:0b:ed:2f:d2:d1:a8:df:cd:b8:87:92:85:c6:7a:05:d0:
-        73:8a:d1:0b:f6:ef:2d:96:41:f7:71:70:91:ce:d2:d2:fa:b0:
-        41:51:cf:7f:fc:51:f5:14:73:7d:b5:f5:07:e3:50:4f:63:92:
-        a7:51:df:0b:2e:b2:41:a3:ad:57:b8:44:fd:e9:e0:f9:48:cc:
-        3c:f7:db:18:fd:cf:07:6d:e4:d5:bf:93:5b:79:73:32:f9:77:
-        95:81:a7:a1:68:90:04:9b:6c:f5:19:46:a8:0d:3a:14:f2:e3:
-        d3:5d:ac:0e:4e:ae:6b:3d:d3:16:22:8d:93:f9:26:79:4f:de:
-        18:dd:ef:f0:ed:c8:62:14:cc:3d:b4:61:b3:12:8b:c4:98:16:
-        45:40:08:db:08:87:dd:81:78:0e:11:52:ba:36:58:ed:72:38:
-        93:16:3a:a3:2f:58:70:8b:ce:f5:da:73:ce:64:74:4a:2e:48:
-        69:5f:d5:b5:d2:9a:39:91:09:d6:c3:bd:e2:ef:ff:50:21:a2:
-        96:5d:44:25:d7:16:57:2c:d7:75:94:f7:02:5a:fb:16:55:ba:
-        2c:da:96:cc:8d:75:cd:50:f3:17:bd:1b:17:e6:d1:d7:a0:82:
-        b3:0e:34:2b:a1:54:65:ca:32:04:32:ed:16:ee:32:c2:ee:5d:
-        c6:49:94:63
+        64:1f:4e:20:05:19:10:ee:8e:ff:72:d9:e4:c0:a5:ee:b7:9f:
+        0c:12:68:22:77:a5:33:00:ee:45:0d:37:c2:61:17:97:9b:4c:
+        8b:03:b5:57:49:04:5a:25:bf:36:b6:9f:f7:8a:e4:12:b8:78:
+        55:2e:a0:5d:85:ab:32:20:03:57:c5:f6:9b:8a:5a:38:bc:6b:
+        0f:ae:dd:6d:74:5e:b6:ae:89:6b:8f:03:28:37:a7:01:5e:f2:
+        d5:9e:ee:c6:1a:b8:77:93:e5:38:ae:f0:00:74:c4:44:6b:84:
+        51:e2:a6:3a:d8:fa:b7:26:09:ea:27:5b:f9:b4:e0:3c:1d:93:
+        04:bc:8b:15:ad:24:59:26:c8:47:f2:18:c6:8a:9d:1e:9b:b2:
+        dc:c8:b8:2e:36:f3:74:ef:89:fb:66:ea:5e:c5:66:de:82:01:
+        9c:34:ad:26:67:c1:86:78:8a:d8:cd:d9:ae:ea:8e:e2:24:9a:
+        a5:39:1e:1c:6a:60:6c:28:be:73:63:43:e8:af:0c:1c:e2:3c:
+        d1:6e:f3:55:10:b9:ec:a7:45:95:ef:6a:86:63:d5:18:7a:e7:
+        c3:71:bb:94:92:30:15:ed:eb:4d:7f:a9:c2:e4:01:9d:30:53:
+        01:a5:bb:ab:8e:e4:39:f4:ee:39:74:08:a4:3d:66:ae:67:7c:
+        06:a9:33:b4
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -260,13 +260,13 @@ OCSP Request Data:
           Serial Number: 01
     Request Extensions:
         OCSP Nonce: 
-            04109C19979E2EF8DDEBD0B50D28CEDB47E2
+            04107B5646884B07C68B079AF1BF7AB21B6F
 OCSP Response Data:
     OCSP Response Status: successful (0x0)
     Response Type: Basic OCSP Response
     Version: 1 (0x0)
     Responder Id: C = PT, ST = Coimbra, O = UC, OU = DEI, CN = ocsp, emailAddress = uc2024156583@student.uc.pt
-    Produced At: Mar  5 20:14:11 2025 GMT
+    Produced At: Mar  6 22:29:22 2025 GMT
     Responses:
     Certificate ID:
       Hash Algorithm: sha1
@@ -274,28 +274,28 @@ OCSP Response Data:
       Issuer Key Hash: 8D43375E13221BB7C70C8C29E7E4C4D05AD0DAFB
       Serial Number: 01
     Cert Status: good
-    This Update: Mar  5 20:14:11 2025 GMT
+    This Update: Mar  6 22:29:22 2025 GMT
 
     Response Extensions:
         OCSP Nonce: 
-            04109C19979E2EF8DDEBD0B50D28CEDB47E2
+            04107B5646884B07C68B079AF1BF7AB21B6F
     Signature Algorithm: sha256WithRSAEncryption
     Signature Value:
-        40:be:0f:f0:42:7e:7a:36:ba:e8:32:0a:03:6e:0b:fd:c8:6f:
-        ec:17:32:89:80:88:2d:fd:48:40:22:6b:44:53:01:79:02:c0:
-        c1:b2:76:d6:ab:47:5d:f1:be:6f:07:93:69:47:ca:b0:d7:1e:
-        d7:6a:a3:c4:d0:c5:97:54:30:00:c5:20:67:a8:4b:e8:da:44:
-        b8:d1:05:bc:af:54:c6:bf:cb:f1:d5:74:72:ea:6b:10:d6:5c:
-        92:25:32:25:4d:47:08:bc:19:c1:a1:2f:f6:06:6e:07:fd:71:
-        52:da:f5:17:2d:ff:cb:10:29:a1:16:17:4b:7d:01:b3:cf:38:
-        44:28:7d:96:65:25:05:e5:56:89:57:fb:fc:76:05:56:a9:58:
-        96:ed:5b:93:a4:56:71:89:a7:b8:13:f1:b6:84:66:fc:c5:81:
-        13:69:99:c8:80:47:fd:fe:96:6f:ca:55:85:83:c0:24:16:4e:
-        d0:00:ce:87:34:02:15:e6:b0:70:80:48:e1:06:ad:f4:13:c5:
-        45:80:5d:76:6a:10:cf:d9:1f:9a:f1:d1:d0:25:bd:fe:ad:93:
-        02:26:d8:6d:58:1d:78:b4:8f:c4:ea:24:b4:f8:0a:5e:c8:b0:
-        c7:24:29:50:64:1d:86:61:9b:1e:71:83:40:f7:db:61:b4:c0:
-        f6:75:e4:d6
+        18:6a:9f:36:d1:61:d2:5a:5d:8b:38:60:c7:7f:d2:2e:7f:d1:
+        be:be:db:86:db:1a:16:ed:93:ae:d8:6a:75:79:d9:7b:43:8c:
+        7c:08:ce:79:05:c6:b4:76:af:04:0f:47:8c:7b:fd:b2:55:2e:
+        a4:19:57:1c:27:f1:fd:41:06:55:02:cf:12:ee:05:17:d3:5c:
+        a0:f2:47:64:2d:64:85:10:69:7d:69:ec:7c:1d:0b:71:1b:c8:
+        77:bf:4c:d0:ae:73:19:95:3b:e9:3e:73:38:c5:2a:77:76:d0:
+        32:d5:57:b4:84:71:68:c3:ea:6c:19:40:17:76:06:3d:6e:83:
+        03:12:cb:9b:9b:4b:cf:90:25:d7:ba:ae:91:ad:e1:21:45:8b:
+        fd:a0:c5:26:ed:8d:1d:7c:57:d2:04:ec:c7:ba:8f:6b:b9:d0:
+        9a:0d:00:09:2e:c1:c9:6f:56:20:36:8d:2b:33:18:71:20:61:
+        d0:58:1c:02:16:3a:61:4e:68:c5:a6:37:0e:63:7b:aa:58:61:
+        31:c6:79:7f:a1:9e:68:62:9d:4a:fe:c4:a3:76:91:2a:5f:3d:
+        fb:08:4f:b1:40:64:0a:31:7e:20:fd:e6:13:ff:da:cb:a6:84:
+        7a:58:8d:64:02:63:a2:ff:64:dd:a5:fb:fe:66:62:cd:40:42:
+        f6:79:12:18
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -386,13 +386,13 @@ OCSP Request Data:
           Serial Number: 00
     Request Extensions:
         OCSP Nonce: 
-            04102D8604AC901F26D1F62A779D92614A7F
+            041070D0245FA7BCC43E24A02540CE370071
 OCSP Response Data:
     OCSP Response Status: successful (0x0)
     Response Type: Basic OCSP Response
     Version: 1 (0x0)
     Responder Id: C = PT, ST = Coimbra, O = UC, OU = DEI, CN = ocsp, emailAddress = uc2024156583@student.uc.pt
-    Produced At: Mar  5 20:14:11 2025 GMT
+    Produced At: Mar  6 22:29:22 2025 GMT
     Responses:
     Certificate ID:
       Hash Algorithm: sha1
@@ -400,28 +400,28 @@ OCSP Response Data:
       Issuer Key Hash: 8D43375E13221BB7C70C8C29E7E4C4D05AD0DAFB
       Serial Number: 00
     Cert Status: unknown
-    This Update: Mar  5 20:14:11 2025 GMT
+    This Update: Mar  6 22:29:22 2025 GMT
 
     Response Extensions:
         OCSP Nonce: 
-            04102D8604AC901F26D1F62A779D92614A7F
+            041070D0245FA7BCC43E24A02540CE370071
     Signature Algorithm: sha256WithRSAEncryption
     Signature Value:
-        3b:0e:31:c9:30:22:0c:19:c1:e1:0b:4d:d6:ac:2d:2a:26:5e:
-        ec:08:d4:0c:2c:c7:4d:8b:a7:86:b0:c6:69:01:d1:0a:3c:e8:
-        02:7b:22:c0:49:70:c4:ae:0d:0b:d9:7e:78:0b:62:f2:30:4e:
-        2a:08:6d:28:d6:66:49:47:ec:f0:ab:f3:f6:d1:86:d6:36:86:
-        56:68:8c:15:15:58:d1:e6:cc:8a:02:27:9f:23:74:5c:38:18:
-        fe:9f:43:9b:46:a2:dc:a6:e8:13:79:5d:c4:58:9b:d3:d1:e6:
-        ae:53:22:7b:10:0b:58:16:4a:08:35:78:4f:c1:d9:8c:f5:ad:
-        4e:74:1e:b3:ed:ad:b9:e9:6a:61:d4:29:ea:2d:4d:fd:f9:99:
-        83:3d:31:ed:ff:c1:1b:35:ea:c8:05:34:37:3e:bd:72:e4:e9:
-        da:7b:e5:aa:d9:32:ac:58:81:1d:eb:bb:61:c8:c3:2b:9e:34:
-        2b:a7:25:9b:60:d3:58:9c:08:2a:18:e9:d4:ae:75:33:83:a8:
-        8c:b8:e3:68:8a:23:86:92:34:82:1d:9d:cd:e0:7d:50:1d:3a:
-        1f:eb:12:65:9a:9e:0d:dd:f4:86:df:05:0c:6c:bd:54:f3:d1:
-        1d:5a:ac:79:cf:d0:6b:d3:9d:58:d3:a9:1a:f7:96:7c:01:32:
-        21:e0:1f:3c
+        13:01:cb:52:d6:43:94:79:b7:07:44:d5:70:73:ac:0e:21:7c:
+        13:89:7a:fe:74:a0:51:a3:30:9b:31:1f:5b:48:3b:8d:b3:03:
+        8c:ef:45:f9:4a:78:c9:e8:26:62:54:fb:a0:e8:e5:1b:5f:90:
+        be:30:46:5c:2d:b1:cd:1e:16:93:39:23:89:86:ed:87:8d:ea:
+        a9:12:90:ea:ba:5a:7c:c4:8c:ab:59:0c:d3:93:a3:de:83:76:
+        80:7b:05:c4:b3:d6:5c:7c:1d:ca:3b:13:bf:56:43:ce:02:e1:
+        b4:f4:3e:f2:13:90:39:5f:32:15:ce:2a:5a:2f:03:f4:43:52:
+        ac:65:c0:26:2f:7d:ca:f8:c3:2b:e4:58:41:ad:92:50:ca:84:
+        48:55:84:16:65:fd:45:a5:e8:a2:d6:c1:39:27:f0:04:eb:63:
+        e9:a8:5e:6e:5f:fa:79:5a:9a:14:6c:a8:42:91:04:2f:d6:25:
+        ea:10:c1:cf:eb:9d:88:fb:80:8e:34:4a:43:f6:b5:a9:53:98:
+        b9:3c:3a:77:b0:c6:1b:f4:b7:4b:c1:d0:60:03:b6:ab:bc:ab:
+        ad:cc:f5:cb:8d:48:8a:58:20:29:c6:fb:12:8c:52:bc:04:db:
+        e9:a7:81:41:c8:92:dd:49:05:7b:7c:da:25:79:c2:bf:b2:ce:
+        d6:b3:51:6e
 Certificate:
     Data:
         Version: 3 (0x2)
@@ -481,4 +481,245 @@ Certificate:
         98:66:44:36
 -----BEGIN CERTIFICATE-----
 MIIDwTCCAqmgAwIBAgIBBDANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCUFQx
-EDAOBgNVBAgMB0NvaW1icmExEDAOBgNVBAcMB0NvaW1i
+EDAOBgNVBAgMB0NvaW1icmExEDAOBgNVBAcMB0NvaW1icmExCzAJBgNVBAoMAlVD
+MQwwCgYDVQQLDANERUkxCzAJBgNVBAMMAmNhMSkwJwYJKoZIhvcNAQkBFhp1YzIw
+MjQxNTY1ODNAc3R1ZGVudC51Yy5wdDAeFw0yNTAzMDMyMDU0MTJaFw0yNjAzMDMy
+MDU0MTJaMHQxCzAJBgNVBAYTAlBUMRAwDgYDVQQIDAdDb2ltYnJhMQswCQYDVQQK
+DAJVQzEMMAoGA1UECwwDREVJMQ0wCwYDVQQDDARvY3NwMSkwJwYJKoZIhvcNAQkB
+Fhp1YzIwMjQxNTY1ODNAc3R1ZGVudC51Yy5wdDCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAK+oboIyTGnlLjqIAk1FTNFSs1frpdhNDrkofuYYZWNXCg27
+kpuRzNHq32lijmUHDGNIgl19CHQrqMc/ZwRl9LSmo/U4V9L41LMIwjIpQYXWFcSY
+l5qkwuqqClsYg8vUDNdxby1Dm6NCweZXm/4iWu6taiG/6ASQngLMKlrL108Bw/o7
+fV+5+PMwCrgI5E1ue5AHBuLTst0N3rW8ivX02cZJKYaFu+rqWsiu8qWwhbkM4/N/
+uwK+9BaAZ2cmT1gillPy/ct4f4AzD6iGAo4f4XP82ratzgC0JTlJALr/Jc1BXZ9L
+5Q+KoK5W93Xo2S4MyBIPzzpMyGqksj7xNLs/mE0CAwEAAaNNMEswCQYDVR0TBAIw
+ADAdBgNVHQ4EFgQUa1NlxqrocpBW09odJ0eGUhWCOUcwHwYDVR0jBBgwFoAUjUM3
+XhMiG7fHDIwp5+TE0FrQ2vswDQYJKoZIhvcNAQELBQADggEBAG/WlOPB8eUaKojm
+USewUXqCvY4PjryWe8VAXQeIU/624OulL4RSHkmOdgD5k9uhj0wP95hXvjOdZuwb
+LBecwjh2h0C9anT7YHGHmw2D+aY6ewiXyfafETDDsP1etshKibb2LRgEnZtLZHP4
+ZsgDw5OcUtbndfyuIyjFe1kLsotOZ1kp08gS7Q6chS/1CZ+Jto7GE+Y5kJeSiYZ1
+PFYYFSNqn4q06qJ00UVPtbRZePKlzaUbp2Qku8vSrYQ7mpES1rfgOX+s3UP3GiN6
+sneqnQSLvYarml2o0HJ1UPAX424fgkBBaYLtUR6SeDBG1qUmClPrOEKxijX2+QTo
+dZhmRDY=
+-----END CERTIFICATE-----
+OCSP Request Data:
+    Version: 1 (0x0)
+    Requestor List:
+        Certificate ID:
+          Hash Algorithm: sha1
+          Issuer Name Hash: 3949434875E5E9049467C8A018AEA43078C7E1E5
+          Issuer Key Hash: 8D43375E13221BB7C70C8C29E7E4C4D05AD0DAFB
+          Serial Number: 01
+    Request Extensions:
+        OCSP Nonce: 
+            04109FA057F48B01CDEA73273E792B0D3539
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: C = PT, ST = Coimbra, O = UC, OU = DEI, CN = ocsp, emailAddress = uc2024156583@student.uc.pt
+    Produced At: Mar  6 22:31:46 2025 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: 3949434875E5E9049467C8A018AEA43078C7E1E5
+      Issuer Key Hash: 8D43375E13221BB7C70C8C29E7E4C4D05AD0DAFB
+      Serial Number: 01
+    Cert Status: good
+    This Update: Mar  6 22:31:46 2025 GMT
+
+    Response Extensions:
+        OCSP Nonce: 
+            04109FA057F48B01CDEA73273E792B0D3539
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        32:b1:0b:68:fb:93:35:f3:1b:69:fd:3b:e9:9e:96:37:e4:f4:
+        c9:a8:2f:1e:74:04:67:f4:5a:f0:03:d8:2a:85:53:a2:10:3f:
+        0b:ae:4d:ea:79:b6:38:af:9b:6a:10:54:02:ee:b0:4a:3a:38:
+        5b:19:0a:09:b8:66:6d:38:01:da:3c:4e:1d:c9:ce:59:53:c9:
+        45:82:49:e2:8d:2e:ad:c2:3b:79:65:84:d9:cb:08:f7:29:14:
+        94:09:02:21:dc:50:a1:29:c2:83:bd:2d:b3:7e:63:53:5c:af:
+        5f:93:f1:df:d6:12:e8:8a:d2:d6:4c:4c:09:84:1f:d5:f5:b5:
+        d1:35:93:b8:11:a9:b0:a7:7a:a1:58:71:b4:b0:69:e8:cc:cf:
+        e9:46:8e:62:8c:5b:0c:05:23:f9:d7:45:6d:ec:1e:78:b9:15:
+        06:ab:c2:b9:7d:c6:52:b0:c7:a6:05:0a:3f:fb:86:5c:9e:d3:
+        a6:d2:21:95:1c:e9:7a:d5:9f:14:bd:ac:4c:00:ad:5d:c8:58:
+        5f:dc:56:17:ec:54:84:6f:29:23:90:cc:75:20:9f:54:fe:a8:
+        7d:be:09:7f:6a:42:98:21:c4:9f:66:a6:ad:d3:7d:2a:1e:e5:
+        78:74:b0:37:66:13:d7:46:9b:e3:58:2f:ab:cf:0b:b6:8c:a6:
+        7a:2f:d9:58
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=PT, ST=Coimbra, L=Coimbra, O=UC, OU=DEI, CN=ca/emailAddress=uc2024156583@student.uc.pt
+        Validity
+            Not Before: Mar  3 20:54:12 2025 GMT
+            Not After : Mar  3 20:54:12 2026 GMT
+        Subject: C=PT, ST=Coimbra, O=UC, OU=DEI, CN=ocsp/emailAddress=uc2024156583@student.uc.pt
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:af:a8:6e:82:32:4c:69:e5:2e:3a:88:02:4d:45:
+                    4c:d1:52:b3:57:eb:a5:d8:4d:0e:b9:28:7e:e6:18:
+                    65:63:57:0a:0d:bb:92:9b:91:cc:d1:ea:df:69:62:
+                    8e:65:07:0c:63:48:82:5d:7d:08:74:2b:a8:c7:3f:
+                    67:04:65:f4:b4:a6:a3:f5:38:57:d2:f8:d4:b3:08:
+                    c2:32:29:41:85:d6:15:c4:98:97:9a:a4:c2:ea:aa:
+                    0a:5b:18:83:cb:d4:0c:d7:71:6f:2d:43:9b:a3:42:
+                    c1:e6:57:9b:fe:22:5a:ee:ad:6a:21:bf:e8:04:90:
+                    9e:02:cc:2a:5a:cb:d7:4f:01:c3:fa:3b:7d:5f:b9:
+                    f8:f3:30:0a:b8:08:e4:4d:6e:7b:90:07:06:e2:d3:
+                    b2:dd:0d:de:b5:bc:8a:f5:f4:d9:c6:49:29:86:85:
+                    bb:ea:ea:5a:c8:ae:f2:a5:b0:85:b9:0c:e3:f3:7f:
+                    bb:02:be:f4:16:80:67:67:26:4f:58:22:96:53:f2:
+                    fd:cb:78:7f:80:33:0f:a8:86:02:8e:1f:e1:73:fc:
+                    da:b6:ad:ce:00:b4:25:39:49:00:ba:ff:25:cd:41:
+                    5d:9f:4b:e5:0f:8a:a0:ae:56:f7:75:e8:d9:2e:0c:
+                    c8:12:0f:cf:3a:4c:c8:6a:a4:b2:3e:f1:34:bb:3f:
+                    98:4d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                6B:53:65:C6:AA:E8:72:90:56:D3:DA:1D:27:47:86:52:15:82:39:47
+            X509v3 Authority Key Identifier: 
+                8D:43:37:5E:13:22:1B:B7:C7:0C:8C:29:E7:E4:C4:D0:5A:D0:DA:FB
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        6f:d6:94:e3:c1:f1:e5:1a:2a:88:e6:51:27:b0:51:7a:82:bd:
+        8e:0f:8e:bc:96:7b:c5:40:5d:07:88:53:fe:b6:e0:eb:a5:2f:
+        84:52:1e:49:8e:76:00:f9:93:db:a1:8f:4c:0f:f7:98:57:be:
+        33:9d:66:ec:1b:2c:17:9c:c2:38:76:87:40:bd:6a:74:fb:60:
+        71:87:9b:0d:83:f9:a6:3a:7b:08:97:c9:f6:9f:11:30:c3:b0:
+        fd:5e:b6:c8:4a:89:b6:f6:2d:18:04:9d:9b:4b:64:73:f8:66:
+        c8:03:c3:93:9c:52:d6:e7:75:fc:ae:23:28:c5:7b:59:0b:b2:
+        8b:4e:67:59:29:d3:c8:12:ed:0e:9c:85:2f:f5:09:9f:89:b6:
+        8e:c6:13:e6:39:90:97:92:89:86:75:3c:56:18:15:23:6a:9f:
+        8a:b4:ea:a2:74:d1:45:4f:b5:b4:59:78:f2:a5:cd:a5:1b:a7:
+        64:24:bb:cb:d2:ad:84:3b:9a:91:12:d6:b7:e0:39:7f:ac:dd:
+        43:f7:1a:23:7a:b2:77:aa:9d:04:8b:bd:86:ab:9a:5d:a8:d0:
+        72:75:50:f0:17:e3:6e:1f:82:40:41:69:82:ed:51:1e:92:78:
+        30:46:d6:a5:26:0a:53:eb:38:42:b1:8a:35:f6:f9:04:e8:75:
+        98:66:44:36
+-----BEGIN CERTIFICATE-----
+MIIDwTCCAqmgAwIBAgIBBDANBgkqhkiG9w0BAQsFADCBhDELMAkGA1UEBhMCUFQx
+EDAOBgNVBAgMB0NvaW1icmExEDAOBgNVBAcMB0NvaW1icmExCzAJBgNVBAoMAlVD
+MQwwCgYDVQQLDANERUkxCzAJBgNVBAMMAmNhMSkwJwYJKoZIhvcNAQkBFhp1YzIw
+MjQxNTY1ODNAc3R1ZGVudC51Yy5wdDAeFw0yNTAzMDMyMDU0MTJaFw0yNjAzMDMy
+MDU0MTJaMHQxCzAJBgNVBAYTAlBUMRAwDgYDVQQIDAdDb2ltYnJhMQswCQYDVQQK
+DAJVQzEMMAoGA1UECwwDREVJMQ0wCwYDVQQDDARvY3NwMSkwJwYJKoZIhvcNAQkB
+Fhp1YzIwMjQxNTY1ODNAc3R1ZGVudC51Yy5wdDCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAK+oboIyTGnlLjqIAk1FTNFSs1frpdhNDrkofuYYZWNXCg27
+kpuRzNHq32lijmUHDGNIgl19CHQrqMc/ZwRl9LSmo/U4V9L41LMIwjIpQYXWFcSY
+l5qkwuqqClsYg8vUDNdxby1Dm6NCweZXm/4iWu6taiG/6ASQngLMKlrL108Bw/o7
+fV+5+PMwCrgI5E1ue5AHBuLTst0N3rW8ivX02cZJKYaFu+rqWsiu8qWwhbkM4/N/
+uwK+9BaAZ2cmT1gillPy/ct4f4AzD6iGAo4f4XP82ratzgC0JTlJALr/Jc1BXZ9L
+5Q+KoK5W93Xo2S4MyBIPzzpMyGqksj7xNLs/mE0CAwEAAaNNMEswCQYDVR0TBAIw
+ADAdBgNVHQ4EFgQUa1NlxqrocpBW09odJ0eGUhWCOUcwHwYDVR0jBBgwFoAUjUM3
+XhMiG7fHDIwp5+TE0FrQ2vswDQYJKoZIhvcNAQELBQADggEBAG/WlOPB8eUaKojm
+USewUXqCvY4PjryWe8VAXQeIU/624OulL4RSHkmOdgD5k9uhj0wP95hXvjOdZuwb
+LBecwjh2h0C9anT7YHGHmw2D+aY6ewiXyfafETDDsP1etshKibb2LRgEnZtLZHP4
+ZsgDw5OcUtbndfyuIyjFe1kLsotOZ1kp08gS7Q6chS/1CZ+Jto7GE+Y5kJeSiYZ1
+PFYYFSNqn4q06qJ00UVPtbRZePKlzaUbp2Qku8vSrYQ7mpES1rfgOX+s3UP3GiN6
+sneqnQSLvYarml2o0HJ1UPAX424fgkBBaYLtUR6SeDBG1qUmClPrOEKxijX2+QTo
+dZhmRDY=
+-----END CERTIFICATE-----
+OCSP Request Data:
+    Version: 1 (0x0)
+    Requestor List:
+        Certificate ID:
+          Hash Algorithm: sha1
+          Issuer Name Hash: 3949434875E5E9049467C8A018AEA43078C7E1E5
+          Issuer Key Hash: 8D43375E13221BB7C70C8C29E7E4C4D05AD0DAFB
+          Serial Number: 00
+    Request Extensions:
+        OCSP Nonce: 
+            041041FEE4FB84060705B8DF5FA3B1C21DED
+OCSP Response Data:
+    OCSP Response Status: successful (0x0)
+    Response Type: Basic OCSP Response
+    Version: 1 (0x0)
+    Responder Id: C = PT, ST = Coimbra, O = UC, OU = DEI, CN = ocsp, emailAddress = uc2024156583@student.uc.pt
+    Produced At: Mar  6 22:31:46 2025 GMT
+    Responses:
+    Certificate ID:
+      Hash Algorithm: sha1
+      Issuer Name Hash: 3949434875E5E9049467C8A018AEA43078C7E1E5
+      Issuer Key Hash: 8D43375E13221BB7C70C8C29E7E4C4D05AD0DAFB
+      Serial Number: 00
+    Cert Status: unknown
+    This Update: Mar  6 22:31:46 2025 GMT
+
+    Response Extensions:
+        OCSP Nonce: 
+            041041FEE4FB84060705B8DF5FA3B1C21DED
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        4c:18:a5:59:07:38:68:a5:9b:65:c5:65:36:f4:79:b9:e1:69:
+        79:e6:87:99:c4:6d:45:8a:71:5b:3a:96:55:9c:cc:2a:8e:45:
+        9b:e6:7d:25:4b:8d:e3:3e:e3:34:80:db:f6:a5:0e:da:d6:0d:
+        ea:30:20:a8:64:81:73:fc:8f:d0:98:3b:de:9c:5d:5e:66:a8:
+        58:07:0e:77:77:8f:7d:df:32:d9:a4:9c:16:5e:bf:4a:6f:73:
+        d9:03:43:b3:14:69:bb:c2:33:c9:6d:18:5d:c2:1d:d2:41:05:
+        3f:38:cb:5a:7a:96:86:f8:c9:d7:b2:34:0b:8f:9d:44:fd:a5:
+        1b:10:bb:af:b6:42:8b:fc:e4:21:b3:a7:a7:fe:94:55:67:24:
+        1b:50:73:ce:bb:16:0c:a2:a5:15:88:42:a5:f3:e3:4a:b9:95:
+        61:dc:7f:94:3a:b8:d3:2e:58:4e:43:db:d5:79:0e:cf:10:42:
+        3c:53:23:56:a6:74:a5:d8:dc:f9:6f:d9:39:29:27:5b:32:16:
+        b0:70:85:b7:97:1c:b2:47:0e:58:fa:4e:aa:5a:cd:bf:c3:1f:
+        35:8e:6d:39:d9:4a:88:58:fc:3e:3b:92:38:81:ec:ed:82:b7:
+        40:3d:28:4d:c9:5e:b6:0b:89:ca:bc:8e:50:2b:6e:98:10:0b:
+        c9:8b:d4:00
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=PT, ST=Coimbra, L=Coimbra, O=UC, OU=DEI, CN=ca/emailAddress=uc2024156583@student.uc.pt
+        Validity
+            Not Before: Mar  3 20:54:12 2025 GMT
+            Not After : Mar  3 20:54:12 2026 GMT
+        Subject: C=PT, ST=Coimbra, O=UC, OU=DEI, CN=ocsp/emailAddress=uc2024156583@student.uc.pt
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:af:a8:6e:82:32:4c:69:e5:2e:3a:88:02:4d:45:
+                    4c:d1:52:b3:57:eb:a5:d8:4d:0e:b9:28:7e:e6:18:
+                    65:63:57:0a:0d:bb:92:9b:91:cc:d1:ea:df:69:62:
+                    8e:65:07:0c:63:48:82:5d:7d:08:74:2b:a8:c7:3f:
+                    67:04:65:f4:b4:a6:a3:f5:38:57:d2:f8:d4:b3:08:
+                    c2:32:29:41:85:d6:15:c4:98:97:9a:a4:c2:ea:aa:
+                    0a:5b:18:83:cb:d4:0c:d7:71:6f:2d:43:9b:a3:42:
+                    c1:e6:57:9b:fe:22:5a:ee:ad:6a:21:bf:e8:04:90:
+                    9e:02:cc:2a:5a:cb:d7:4f:01:c3:fa:3b:7d:5f:b9:
+                    f8:f3:30:0a:b8:08:e4:4d:6e:7b:90:07:06:e2:d3:
+                    b2:dd:0d:de:b5:bc:8a:f5:f4:d9:c6:49:29:86:85:
+                    bb:ea:ea:5a:c8:ae:f2:a5:b0:85:b9:0c:e3:f3:7f:
+                    bb:02:be:f4:16:80:67:67:26:4f:58:22:96:53:f2:
+                    fd:cb:78:7f:80:33:0f:a8:86:02:8e:1f:e1:73:fc:
+                    da:b6:ad:ce:00:b4:25:39:49:00:ba:ff:25:cd:41:
+                    5d:9f:4b:e5:0f:8a:a0:ae:56:f7:75:e8:d9:2e:0c:
+                    c8:12:0f:cf:3a:4c:c8:6a:a4:b2:3e:f1:34:bb:3f:
+                    98:4d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                6B:53:65:C6:AA:E8:72:90:56:D3:DA:1D:27:47:86:52:15:82:39:47
+            X509v3 Authority Key Identifier: 
+                8D:43:37:5E:13:22:1B:B7:C7:0C:8C:29:E7:E4:C4:D0:5A:D0:DA:FB
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        6f:d6:94:e3:c1:f1:e5:1a:2a:88:e6:51:27:b0:51:7a:82:bd:
+        8e:0f:8e:bc:96:7b:c5:40:5d:07:88:53:fe:b6:e0:eb:a5:2f:
+        84:52:1e:49:8e:76:00:f9:93:db:a1:8f:4c:0f:f7:98:57:be:
+        33:9d:66:ec:1b:2c:17:9c:c2:38:76:87:40:bd:6a:74:fb:60:
+        71:87:9b:0d:83:f9:a6:3a:7b:08:97:c9:f6:9f:11:30:c3:b0:
+        fd:5e:b6:c8:4a:89:b6:f6:2d:18:04:9d:9b:4b:64:73:f8:66:
+        c8:03:c3:93:9c:52:d6:e7:75:fc:ae:23:28:c
